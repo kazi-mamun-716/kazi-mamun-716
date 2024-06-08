@@ -1,6 +1,6 @@
 # Hi, I'm Kazi Mamun! 👋
 
-## 🚀 Mechanical Engineer & Aspiring Full Stack Web Developer
+## 🚀 Full Stack Web Developer
 
 ### About Me
 - 🛠️ By day, I work as a Mechanical Engineer at a private power plant, ensuring efficient operations and maintenance.
