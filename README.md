@@ -19,7 +19,7 @@
 
 ### Get in Touch
 - 📧 [Email](mailto:kazimamun716@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kazi-mamun-336595111/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kazi-mamun-bd)
 - 🌐 [Facebook](https://www.facebook.com/kazi.mamun.716)
 
 ### Projects
